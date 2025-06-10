@@ -1,0 +1,6 @@
+name: nextflow_example_cupy
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - cupy

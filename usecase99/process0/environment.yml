@@ -1,0 +1,5 @@
+name: nextflow_example_prepost
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
