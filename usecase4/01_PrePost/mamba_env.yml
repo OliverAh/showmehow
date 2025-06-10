@@ -1,0 +1,8 @@
+name: nextflow_example_HHL_prepost
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - numpy
+  - pip:
+    - SALib

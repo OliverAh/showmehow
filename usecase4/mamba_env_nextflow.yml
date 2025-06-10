@@ -1,0 +1,5 @@
+name: nextflow
+dependencies:
+  - conda-forge::curl
+  - bioconda::nextflow=24.10.5
+  - bioconda::nf-core
