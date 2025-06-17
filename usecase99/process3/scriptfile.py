@@ -12,6 +12,7 @@ if __name__ == "__main__":
     print(n)
     print(os.environ["CUDA_VISIBLE_DEVICES"])
 
+
     matrix_0 = cp.random.rand(n,n)
     matrix_1 = cp.random.rand(n,n)
 
